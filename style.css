@@ -1,0 +1,15 @@
+.tekst2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: large;
+}
+h1{
+    background-color: rgb(102, 64, 119); 
+}
+h3{
+    background-color: rgb(102, 64, 119); 
+}
+body{
+    background-color: rgb(150, 129, 160);
+}
